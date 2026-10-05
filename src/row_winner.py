@@ -1,4 +1,4 @@
-from functions import *
+from empty_board import empty_board
 from empty_board import empty_board
 
 board = empty_board()

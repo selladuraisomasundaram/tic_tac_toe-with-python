@@ -1,4 +1,7 @@
-from functions import *
+import numpy as np
+from row_winner import row_winner
+from col_winner import col_winner
+from diag_winner import diag_winner
 
 def evaluate_game(board):
     winner = 0
